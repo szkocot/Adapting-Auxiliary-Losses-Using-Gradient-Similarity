@@ -1,0 +1,11 @@
+numpy
+matplotlib
+tensorflow-gpu>=1.12.0
+tqdm
+jupyter
+pandas
+h5py
+dask[array]
+keras
+https://github.com/szkocot/keras-contrib/archive/master.zip
+scikit-learn
